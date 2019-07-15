@@ -2,6 +2,7 @@ require 'selenium-webdriver'
 require 'nokogiri'
 require 'csv'
 require 'pp'
+require 'json'
 
 def get_player_performances(year, driver, owners)
   weeks=*(1..16)
@@ -19,7 +20,6 @@ def get_player_performances(year, driver, owners)
       
       team_table = doc.css("tableType-player")
       player_rows = doc.css("tr")
-      # puts player_rows[2]
       player_rows.each do |row|
         player = {}
         player[:position] = row.css(".teamPosition").text
@@ -34,11 +34,13 @@ def get_player_performances(year, driver, owners)
         player[:owner] = team_owner
         player[:year] = year
         player[:week] = week
-        puts player
+        # puts player
         players.push(player)
       end
     end
   end
+
+  return players
 end
 
 
@@ -49,6 +51,23 @@ end
 ########################################################
 ########################################################
 ########################################################
+
+
+##### read in player json #####
+
+playerFile = File.read('../players.json')
+
+initial_player_hash =  JSON.parse(playerFile)
+
+
+player_info_hash = {}
+
+initial_player_hash.each do |k,v|
+  profile_id = v["profile_id"].to_s
+  player_info_hash[profile_id] = v
+end
+
+##### scrape player info ####
 
 owners = { 
   "Matt" => {},
@@ -67,8 +86,8 @@ owners = {
   "Keenan" => {},
 }
 
-years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018]
-# years = [2017]
+# years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018]
+years = [2018]
 
 
 owners.each do |k,_|
@@ -92,11 +111,36 @@ password.send_keys("rock7900")
 submit.click()
 sleep(2)
 
+scraped_players = []
 
 years.each do |year|
-  get_player_performances(year, driver, owners)
+  scraped_players.concat(get_player_performances(year, driver, owners))
 end
 
+##### combine maps
+
+scraped_players.each do |scraped_player|
+  if scraped_player[:name] != ""
+    matched_json_player = player_info_hash[scraped_player[:id]]
+    if matched_json_player != nil
+      scraped_player[:gsis_id] = matched_json_player["gsis_id"]
+      scraped_player[:birthdate] = matched_json_player["birthdate"]
+    elsif
+      puts "#{scraped_player[:positionf]}, #{scraped_player[:name]} did not have a match"
+    end
+  end
+end
+
+# puts scraped_players
+
+
+CSV.open("results.csv", "w") do |csv|
+  scraped_players.each do |player|
+    if player[:name] != ""
+      csv << player.values
+    end
+  end
+end
 
 driver.quit
 
