@@ -88,7 +88,7 @@ owners = {
 
 # years = [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018]
 years = [2018]
-
+# years = [2013, 2014, 2015, 2016, 2017, 2018]
 
 owners.each do |k,_|
   years.each do |year|
@@ -126,7 +126,7 @@ scraped_players.each do |scraped_player|
       scraped_player[:gsis_id] = matched_json_player["gsis_id"]
       scraped_player[:birthdate] = matched_json_player["birthdate"]
     elsif
-      puts "#{scraped_player[:positionf]}, #{scraped_player[:name]} did not have a match"
+      puts "#{scraped_player[:position]}, #{scraped_player[:name]} did not have a match"
     end
   end
 end
@@ -134,7 +134,7 @@ end
 # puts scraped_players
 
 
-CSV.open("results.csv", "w") do |csv|
+CSV.open("results.csv", "a+") do |csv|
   scraped_players.each do |player|
     if player[:name] != ""
       csv << player.values

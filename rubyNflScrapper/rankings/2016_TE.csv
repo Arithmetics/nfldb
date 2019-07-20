@@ -1,0 +1,193 @@
+﻿Rank,Player,Bye,Best,Worst,Ave,Std Dev,ADP
+1,Rob Gronkowski NE,9,1,1,1,0,1
+2,Jordan Reed WAS,9,2,4,2.4,0.6,2
+3,Greg Olsen CAR,7,2,5,2.8,0.7,3
+4,Travis Kelce KC,5,2,8,4.9,1.3,4
+5,Delanie Walker TEN,13,3,9,5.6,1.4,5
+6,Coby Fleener NO,5,4,17,5.8,2.2,7
+7,Gary Barnidge CLE,13,4,13,8.6,2.1,8
+8,Tyler Eifert CIN,9,3,17,9.3,3.1,6
+9,Julius Thomas JAC,5,3,16,9.5,2.2,9
+10,Zach Ertz PHI,4,6,19,9.7,2.7,10
+11,Antonio Gates SD,11,5,19,10,2.6,11
+12,Dwayne Allen IND,10,8,24,12.4,2.7,16
+13,Martellus Bennett NE,9,7,25,13.9,3.1,13
+14,Eric Ebron DET,10,7,29,15.2,3.6,18
+15,Jason Witten DAL,7,11,23,15.9,2.6,14
+16,Jimmy Graham SEA,5,7,30,16.6,4,12
+17,Zach Miller CHI,9,10,24,16.5,2.6,17
+18,Ladarius Green PIT,8,5,59,19.4,7.7,15
+19,Charles Clay BUF,10,12,34,19.9,3.6,26
+20,Clive Walford OAK,10,10,33,20.7,3.6,25
+21,Jared Cook GB,4,11,33,21.8,4.1,19
+22,Austin Seferian-Jenkins TB,6,11,34,22.8,5,20
+23,Jordan Cameron MIA,8,11,34,21.9,3.9,24
+24,Vance McDonald SF,8,13,35,23.4,5,30
+25,Will Tye NYG,8,11,32,23,3.9,31
+26,Kyle Rudolph MIN,6,12,31,23.7,3.2,23
+27,Benjamin Watson BAL,8,13,36,24.8,4.1,22
+28,Cameron Brate TB,6,16,35,28.5,4.2,34
+29,Richard Rodgers GB,4,20,44,29.6,5,21
+30,Tyler Higbee LA,8,20,56,35.6,7.2,
+31,Jesse James PIT,8,20,53,31.8,7.4,29
+32,Virgil Green DEN,11,22,47,31.6,6.3,
+33,Lance Kendricks LA,8,23,45,32.2,3.7,
+34,Maxx Williams BAL,8,23,45,33.9,5,
+35,Jace Amaro NYJ,11,23,37,30.1,3.2,
+36,Austin Hooper ATL,11,24,54,33.5,6.1,33
+37,Jacob Tamme ATL,11,25,41,32.1,4.5,27
+38,Hunter Henry SD,11,26,82,36.6,9.3,28
+39,MyCole Pruitt MIN,6,26,67,47.7,10.6,
+40,Jeff Heuerman DEN,11,26,58,37.9,6.8,35
+41,Luke Willson SEA,5,26,52,40.6,7.7,
+42,Josh Hill NO,5,26,51,41.3,6.3,
+43,Niles Paul WAS,9,27,57,42.9,7,
+44,Ryan Griffin HOU,9,27,49,37.4,6.3,
+45,Larry Donnell NYG,8,27,49,37.8,4.9,
+46,Darren Fells ARI,9,28,52,40,5.5,
+47,Mychal Rivera OAK,10,28,51,45.7,5.3,
+48,Crockett Gillmore BAL,8,28,50,38.6,6.4,
+49,Garrett Celek SF,8,29,52,41,5.8,
+50,Brent Celek PHI,4,29,51,40.9,5.8,32
+51,Owen Daniels FA,,29,41,34.3,3.7,
+52,Vernon Davis WAS,9,30,69,41,12.3,
+53,Dennis Pitta BAL,8,33,69,50.1,9.7,36
+54,Tyler Kroft CIN,9,34,53,44.6,5.3,
+55,Blake Bell SF,8,37,59,49,7.5,
+56,Garrett Graham DEN,11,39,71,52.7,12.3,
+57,Dion Sims MIA,8,39,59,48.2,5.4,
+58,Troy Niklas ARI,9,40,76,64.3,14.4,
+59,Anthony Fasano TEN,13,40,66,55.6,8.8,
+60,James O'Shaughnessy KC,5,41,71,58.8,10.1,
+61,Jermaine Gresham ARI,9,42,61,49.8,6,
+62,C.J. Fiedorowicz HOU,9,43,63,53.4,8.1,
+63,Nick Vannett SEA,5,44,68,58.5,9.1,
+64,Jack Doyle IND,10,45,61,53.2,5.3,
+65,Jeff Cumberland SD,11,46,66,58,8.2,
+66,Gavin Escobar DAL,7,50,69,57.5,6.6,
+67,Brandon Pettigrew DET,10,51,73,63.4,7.7,
+68,Marcedes Lewis JAC,5,54,67,58.8,4.5,
+69,Ed Dickson CAR,7,55,68,59.4,4.6,
+70,Chris Gragg BUF,10,60,73,66.5,5.6,
+71,James Hanna DAL,7,62,76,69,7,
+72,Rob Housler CHI,9,62,65,63.6,1.4,
+73,Kellen Davis NYJ,11,63,80,72.5,6.6,
+74,Michael Hoomanawanui NO,5,63,72,67.3,3.7,
+75,Logan Paulsen WAS,9,65,72,68.5,3.5,
+76,Rhett Ellison MIN,6,66,73,69.5,3.5,
+77,Seth DeValve CLE,13,66,70,68.3,1.7,
+78,Craig Stevens TEN,13,68,78,73.3,4.1,
+79,Cooper Helfet FA,,68,76,72,3.3,
+80,Luke Stocker TB,6,72,75,73.5,1.5,
+81,Jerell Adams NYG,8,73,80,76.5,3.5,
+82,Demetrius Harris KC,5,74,78,76,2,
+83,E.J. Bibbs CLE,13,75,77,76,1,
+84,Levine Toilolo ATL,11,75,75,75,0,
+85,Erik Swoope IND,10,79,83,81,2,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

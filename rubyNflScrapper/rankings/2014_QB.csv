@@ -1,0 +1,186 @@
+﻿Rank,Player,Best,Worst,Ave,Std Dev,ADP
+1,Peyton Manning (DEN/4),1,5,1.4,0.9,1
+2,Aaron Rodgers (GB/9),1,3,2.2,0.6,3
+3,Drew Brees (NO/6),1,3,2.4,0.7,2
+4,Matthew Stafford (DET/9),4,12,5.2,1.7,4
+5,Andrew Luck (IND/10),3,11,6.1,2.2,5
+6,Robert Griffin III (WAS/10),4,12,7.7,2.2,7
+7,Nick Foles (PHI/7),4,16,7.9,3.1,8
+8,Matt Ryan (ATL/9),5,13,8.5,2.1,11
+9,Cam Newton (CAR/12),4,15,8.6,2.9,6
+10,Tom Brady (NE/10),4,15,9.6,2.4,9
+11,Tony Romo (DAL/11),5,15,10.5,2.6,12
+12,Colin Kaepernick (SF/8),5,16,11.5,2.5,10
+13,Jay Cutler (CHI/9),6,18,12.6,2.9,15
+14,Russell Wilson (SEA/4),7,18,13.1,2.7,13
+15,Philip Rivers (SD/10),9,19,14.5,1.9,14
+16,Ben Roethlisberger (PIT/12),8,18,15.7,1.8,16
+17,Andy Dalton (CIN/4),13,27,18.2,2.4,17
+18,Ryan Tannehill (MIA/5),14,24,19.2,2.2,21
+19,Alex Smith (KC/6),14,29,19.9,2.9,20
+20,Carson Palmer (ARI/4),15,26,20.3,2.8,23
+21,Eli Manning (NYG/8),15,27,21.7,2.8,19
+22,Johnny Manziel (CLE/4),14,35,24,5.6,18
+23,Josh McCown (TB/7),16,31,24.3,4.1,25
+24,Joe Flacco (BAL/11),18,30,23.8,2.5,22
+25,Jake Locker (TEN/9),18,29,24.1,3.1,
+26,Sam Bradford (STL/4),17,30,24.4,3.1,24
+27,E.J. Manuel (BUF/9),19,31,26.1,3.2,
+28,Teddy Bridgewater (MIN/10),19,38,28.7,4.3,26
+29,Geno Smith (NYJ/11),22,36,28.1,3.6,
+30,Ryan Fitzpatrick (HOU/10),22,33,28.1,2.5,
+31,Brian Hoyer (CLE/4),23,47,32.5,4.7,
+32,Michael Vick (NYJ/11),24,50,32.9,5,27
+33,Matt Schaub (OAK/5),25,34,30.3,2,
+34,Chad Henne (JAC/11),26,33,31,1.7,
+35,Matt Cassel (MIN/10),27,49,34.5,4.3,
+36,Mike Glennon (TB/7),29,41,36.2,3.4,
+37,Kirk Cousins (WAS/10),30,47,39.1,4.1,
+38,Derek Carr (OAK/5),31,45,35.6,3.6,
+39,Tom Savage (HOU/10),32,51,38,5.3,
+40,Blake Bortles (JAC/11),33,39,35.6,1.6,
+41,Thaddeus Lewis (BUF/9),34,47,41.4,3.8,
+42,Charlie Whitehurst (TEN/9),35,79,47.5,15,
+43,Jordan Palmer (CHI/9),35,71,49.3,15.6,
+44,Matt Flynn (GB/9),36,59,47.4,8.9,
+45,Drew Stanton (ARI/4),36,55,44,7,
+46,Case Keenum (HOU/10),37,65,47.8,12.2,
+47,Mark Sanchez (PHI/7),39,61,43.7,7.4,
+48,Chase Daniel (KC/6),39,51,43.8,4.5,
+49,Ryan Mallett (NE/10),40,58,46,6.5,
+50,Brock Osweiler (DEN/4),40,55,46.4,5.7,
+51,Shaun Hill (STL/4),40,52,45.8,4.3,
+52,Jason Campbell (CIN/4),42,60,52,6.1,
+53,Bruce Gradkowski (PIT/12),42,58,49.4,5.2,
+54,Brandon Weeden (DAL/11),43,57,48.4,4.7,
+55,Tyrod Taylor (BAL/11),45,67,54,7.2,
+56,Tarvaris Jackson (SEA/4),45,63,55,6.5,
+57,Derek Anderson (CAR/12),46,67,55.8,7.5,
+58,Dan Orlovsky (DET/9),46,63,54.3,7.4,
+59,Zach Mettenberger (TEN/9),46,56,52.3,4.5,
+60,Matt Moore (MIA/5),47,66,55.4,6.4,
+61,Tajh Boyd (NYJ/11),49,77,63,14,
+62,Matt Hasselbeck (IND/10),50,64,54.8,5.3,
+63,AJ McCarron (CIN/4),50,62,56,6,
+64,Taylor Yates (ATL/9),51,65,56.8,5.1,
+65,Kellen Clemens (SD/10),52,69,61,6,
+66,Luke McCown (NO/6),54,62,57.3,3.4,
+67,Blaine Gabbert (SF/8),56,68,60.6,4.6,
+68,Aaron Murray (KC/6),56,61,58.5,2.5,
+69,Ryan Nassib (NYG/8),58,64,60.7,2.5,
+70,Jimmy Garoppolo (NE/10),59,75,67,8,
+71,David Paulson (PIT/5),37,69,48.8,12.7,55
+72,James Hanna (DAL/11),38,73,61.4,12.9,69
+73,Virgil Green (DEN/9),39,76,62.2,12.6,60
+74,Hayden Smith (NYJ/10),39,64,51.5,12.5,107
+75,Logan Paulsen (WAS/5),43,66,53.6,7.6,67
+76,Niles Paul (WAS/5),47,77,61,12.3,78
+77,Kellen Davis (CLE/10),47,65,56.3,6.3,68
+78,Michael Egnew (MIA/6),48,81,67.8,12.3,109
+79,Jeff King (ARI/9),48,71,64,8.3,134
+80,John Carlson (MIN/5),48,69,56.5,8.1,102
+81,Lee Smith (BUF/12),49,78,62.8,13.8,79
+82,Charles Clay (MIA/6),51,60,54,4.2,74
+83,D.J. Williams (GB/4),54,77,67.7,9.9,44
+84,Steve Maneri (CHI/8),55,62,58.5,3.5,179
+85,Dion Sims (MIA/6),58,67,61,4.2,112
+86,Andrew Quarless (GB/4),59,73,66.3,5.9,73
+87,Chase Coffman (ATL/6),63,79,74.3,6.5,155
+88,Gary Barnidge (CLE/10),63,70,66.5,3.5,149
+89,Dorin Dickerson (BUF/12),68,75,70.3,3.3,171
+90,Ben Hartsock (CAR/4),69,81,74.8,5.8,122
+91,Bear Pascoe (NYG/9),74,79,76.5,2.5,159
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
