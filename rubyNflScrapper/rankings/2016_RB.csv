@@ -1,194 +1,145 @@
-﻿Rank,Player,Bye,Best,Worst,Ave,Std Dev,ADP
-1,Todd Gurley LA,8,1,5,1.9,1,1
-2,David Johnson ARI,9,1,8,2.2,1.4,2
-3,Adrian Peterson MIN,6,1,9,3.3,1.5,3
-4,Ezekiel Elliott DAL,7,1,9,4.2,1.7,4
-5,Lamar Miller HOU,9,1,10,4.5,1.6,6
-6,Jamaal Charles KC,5,3,15,7.6,2.6,7
-7,Le'Veon Bell PIT,8,2,18,8.3,3,5
-8,Mark Ingram NO,5,6,19,9,2.1,11
-9,Devonta Freeman ATL,11,4,38,9.1,4.3,8
-10,Eddie Lacy GB,4,6,17,10.2,2.5,10
-11,Doug Martin TB,6,4,17,10.2,2.7,9
-12,LeSean McCoy BUF,10,5,16,10.7,2.2,12
-13,C.J. Anderson DEN,11,6,29,12.9,3,14
-14,Carlos Hyde SF,8,7,25,15.1,3.2,15
-15,Thomas Rawls SEA,5,8,28,16.4,3.3,13
-16,Latavius Murray OAK,10,7,27,16.4,3.3,16
-17,Matt Forte NYJ,11,13,28,18.5,3.5,17
-18,Jeremy Hill CIN,9,11,33,19.6,3.8,20
-19,Jonathan Stewart CAR,7,8,35,20.2,4.6,19
-20,DeMarco Murray TEN,13,12,41,20.9,6,18
-21,Ryan Mathews PHI,4,14,52,21.8,5.6,22
-22,Frank Gore IND,10,14,38,23.9,4.9,27
-23,Matt Jones WAS,9,12,46,24.7,5.5,24
-24,Jeremy Langford CHI,9,8,54,25.3,5.4,23
-25,Giovani Bernard CIN,9,16,46,26,5.1,28
-26,Melvin Gordon SD,11,13,41,26.3,5.6,26
-27,Duke Johnson CLE,13,20,39,27.8,4.2,29
-28,Arian Foster MIA,8,15,49,28.7,7.2,25
-29,Danny Woodhead SD,11,19,45,30.1,4.8,33
-30,Rashad Jennings NYG,8,22,46,30.1,5,34
-31,Ameer Abdullah DET,10,15,45,30.5,4.4,32
-32,Chris Ivory JAC,5,18,45,31.6,5.2,30
-33,Dion Lewis NE,9,15,82,37.4,19.3,21
-34,T.J. Yeldon JAC,5,20,44,34.9,5.4,37
-35,DeAngelo Williams PIT,8,19,52,35.3,5.7,31
-36,Jay Ajayi MIA,8,19,54,36.6,7.7,35
-37,Charles Sims TB,6,26,55,37,4.9,39
-38,Justin Forsett BAL,8,21,57,37.5,5.5,36
-39,Isaiah Crowell CLE,13,25,57,38.2,5.6,41
-40,LeGarrette Blount NE,9,27,58,39.8,7.4,40
-41,Derrick Henry TEN,13,27,70,40.3,7,38
-42,Tevin Coleman ATL,11,18,60,42,5.8,42
-43,Bilal Powell NYJ,11,30,57,42.1,5.3,43
-44,Theo Riddick DET,10,33,64,44.9,5.5,45
-45,Kenneth Dixon BAL,8,30,71,51.9,8.9,57
-46,Christine Michael SEA,5,34,81,54.1,12.3,51
-47,James White NE,9,25,91,60,15.9,80
-48,Javorius Allen BAL,8,33,75,52.3,9.2,53
-49,Jerick McKinnon MIN,6,37,70,50.4,6.6,60
-50,Jordan Howard CHI,9,35,84,51.7,8.7,61
-51,DeAndre Washington OAK,10,28,68,50.3,6.5,54
-52,Devontae Booker DEN,11,24,67,52,8,52
-53,Shane Vereen NYG,8,40,77,52.9,8,56
-54,Darren Sproles PHI,4,34,79,54.6,9.3,48
-55,James Starks GB,4,37,73,53.2,8,46
-56,C.J. Prosise SEA,5,34,89,54.9,10.6,59
-57,Spencer Ware KC,5,39,86,55.9,10.2,58
-58,Terrance West BAL,8,30,98,60.4,13.7,62
-59,Karlos Williams FA,,34,122,61.2,16.6,44
-60,Chris Johnson ARI,9,37,78,57.5,8,50
-61,Darren McFadden DAL,7,35,85,61.5,10.9,49
-62,Wendell Smallwood PHI,4,35,113,62,11.7,73
-63,Tim Hightower NO,5,42,84,60.6,8.9,67
-64,Paul Perkins NYG,8,44,90,60.4,8.6,65
-65,Alfred Morris DAL,7,39,80,62.2,8.2,47
-66,Charcandrick West KC,5,43,79,64.6,8.4,55
-67,Shaun Draughn SF,8,40,91,64,10.6,76
-68,Ronnie Hillman DEN,11,41,101,71.4,12,66
-69,Chris Thompson WAS,9,45,82,59.8,8.3,69
-70,Mike Gillislee BUF,10,34,93,72.4,10.5,75
-71,Lance Dunbar DAL,7,39,111,78.2,12.6,71
-72,Cameron Artis-Payne CAR,7,47,92,67.5,9.2,64
-73,Josh Ferguson IND,10,47,88,64.8,8.7,68
-74,Keith Marshall WAS,9,41,93,68.6,10,72
-75,Reggie Bush BUF,10,45,103,74.4,15,
-76,Kenjon Barner PHI,4,46,120,78.4,20.6,
-77,C.J. Spiller NO,5,47,94,71.6,9.7,78
-78,Zach Zenner DET,10,47,91,72.5,8.6,83
-79,Ka'Deem Carey CHI,9,49,101,73.2,9.5,74
-80,Kenyan Drake MIA,8,49,97,71.6,9.2,63
-81,Andre Ellington ARI,9,50,82,69.6,6.9,79
-82,David Cobb TEN,13,52,128,84.2,16.1,82
-83,Robert Turbin IND,10,55,107,82.1,10,84
-84,Khiry Robinson NYJ,11,55,88,76.6,7.6,85
-85,Jonathan Williams BUF,10,56,103,83.5,12.3,
-86,Tyler Ervin HOU,9,57,124,75.7,11.1,77
-87,Robert Kelley WAS,9,58,119,83.3,18.4,
-88,Mike Tolbert CAR,7,58,106,82.3,9.5,92
-89,Benny Cunningham LA,8,58,97,72.8,9.5,70
-90,Alfred Blue HOU,9,58,97,76.6,9.3,87
-91,Mike Davis SF,8,59,121,88.2,13.3,89
-92,Antonio Andrews TEN,13,63,120,85.6,11.7,90
-93,Terrell Watson CLE,13,65,109,88.5,10.7,
-94,Stevan Ridley DET,10,65,105,86.6,10,88
-95,Andre Williams NYG,8,65,101,84.7,9.8,94
-96,Denard Robinson JAC,5,65,100,87.2,8.3,
-97,Joique Bell FA,,65,96,79.6,9.9,
-98,Tre Mason LA,8,66,110,83.5,12.2,86
-99,Alex Collins SEA,5,67,109,80.5,10.2,
-100,Branden Oliver SD,11,67,98,83.2,9,
-101,Dexter McCluster TEN,13,69,102,86,9.4,93
-102,Jalen Richard OAK,10,69,95,82,13,
-103,Jacquizz Rodgers CHI,9,70,129,89.3,16.2,
-104,Orleans Darkwa NYG,8,71,122,95.2,14.4,
-105,Travaris Cadet NO,5,71,120,99.4,14,
-106,Trent Richardson FA,,72,107,94.4,10.9,91
-107,Jonathan Grimes HOU,9,72,106,92.9,11.6,
-108,Knile Davis KC,5,73,119,89.9,13.4,
-109,Jordan Todman IND,10,73,115,96.6,11.6,
-110,Bishop Sankey TEN,13,74,110,93.2,11.5,
-111,Damien Williams MIA,8,76,116,95.8,11.9,
-112,Matt Asiata MIN,6,76,114,94.5,11.6,
-113,Kelvin Taylor SF,8,76,113,99.8,11.6,
-114,Tyler Gaffney NE,9,77,122,89,16.8,
-115,Marcel Reece OAK,10,77,118,96.1,13.6,
-116,Fozzy Whittaker CAR,7,78,125,98.7,14.5,
-117,Donald Brown NE,9,78,117,95.5,12.3,
-118,Roy Helu FA,,78,112,95.4,13.7,
-119,Lorenzo Taliaferro BAL,8,79,120,106.4,12.5,
-120,Daniel Lasco NO,5,80,116,95.2,10.2,
-121,Malcolm Brown LA,8,84,119,99.3,13.9,96
-122,Brandon Bolden NE,9,85,118,99.8,10.1,95
-123,Rex Burkhead CIN,9,86,123,106,12.4,
-124,Fitzgerald Toussaint PIT,8,86,121,96.2,10.4,
-125,Kyle Juszczyk BAL,8,87,117,98.6,10.6,
-126,John Crockett GB,4,90,136,118,14.3,
-127,Tyler Varga FA,,95,132,117.3,16,
-128,Taiwan Jones OAK,10,96,130,115.4,11.4,
-129,Terron Ward ATL,11,97,124,112.9,10.4,
-130,Mike James TB,6,98,127,114,11,
-131,Dwayne Washington DET,10,99,133,121.4,11.7,
-132,Juwan Thompson DEN,11,100,131,115.2,10.8,
-133,Patrick DiMarco ATL,11,100,127,110.3,10.2,
-134,Zach Line MIN,6,102,114,108,6,
-135,Daryl Richardson PIT,8,103,135,122.7,14.1,
-136,Bruce Miller SF,8,105,129,112,9.9,
-137,Darius Jackson DAL,7,110,134,119.3,10.5,
-138,Aaron Ripkowski GB,4,115,123,119,4,
-139,Kerwynn Williams ARI,9,116,128,122.7,5,
-140,Stepfan Taylor ARI,9,118,138,126.7,8.4,
-141,Glenn Winston CLE,13,118,126,122,4,
-142,Cedric Peerman CIN,9,119,137,126.8,7.9,
-143,Anthony Sherman KC,5,122,130,126,4,
-144,Tommy Bohanon NYJ,11,123,131,127,4,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
+﻿Rank,Player,Team,Bye
+1,Todd Gurley,LA,8
+2,David Johnson,ARI,9
+3,Adrian Peterson,MIN,6
+4,Ezekiel Elliott,DAL,7
+5,Lamar Miller,HOU,9
+6,Jamaal Charles,KC,5
+7,Le'Veon Bell,PIT,8
+8,Mark Ingram,NO,5
+9,Devonta Freeman,ATL,11
+10,Eddie Lacy,GB,4
+11,Doug Martin,TB,6
+12,LeSean McCoy,BUF,10
+13,C.J. Anderson,DEN,11
+14,Carlos Hyde,SF,8
+15,Thomas Rawls,SEA,5
+16,Latavius Murray,OAK,10
+17,Matt Forte,NYJ,11
+18,Jeremy Hill,CIN,9
+19,Jonathan Stewart,CAR,7
+20,DeMarco Murray,TEN,13
+21,Ryan Mathews,PHI,4
+22,Frank Gore,IND,10
+23,Matt Jones,WAS,9
+24,Jeremy Langford,CHI,9
+25,Giovani Bernard,CIN,9
+26,Melvin Gordon,SD,11
+27,Duke Johnson,CLE,13
+28,Arian Foster,MIA,8
+29,Danny Woodhead,SD,11
+30,Rashad Jennings,NYG,8
+31,Ameer Abdullah,DET,10
+32,Chris Ivory,JAC,5
+33,Dion Lewis,NE,9
+34,T.J. Yeldon,JAC,5
+35,DeAngelo Williams,PIT,8
+36,Jay Ajayi,MIA,8
+37,Charles Sims,TB,6
+38,Justin Forsett,BAL,8
+39,Isaiah Crowell,CLE,13
+40,LeGarrette Blount,NE,9
+41,Derrick Henry,TEN,13
+42,Tevin Coleman,ATL,11
+43,Bilal Powell,NYJ,11
+44,Theo Riddick,DET,10
+45,Kenneth Dixon,BAL,8
+46,Christine Michael,SEA,5
+47,James White,NE,9
+48,Javorius Allen,BAL,8
+49,Jerick McKinnon,MIN,6
+50,Jordan Howard,CHI,9
+51,DeAndre Washington,OAK,10
+52,Devontae Booker,DEN,11
+53,Shane Vereen,NYG,8
+54,Darren Sproles,PHI,4
+55,James Starks,GB,4
+56,C.J. Prosise,SEA,5
+57,Spencer Ware,KC,5
+58,Terrance West,BAL,8
+59,Karlos Williams,FA,
+60,Chris Johnson,ARI,9
+61,Darren McFadden,DAL,7
+62,Wendell Smallwood,PHI,4
+63,Tim Hightower,NO,5
+64,Paul Perkins,NYG,8
+65,Alfred Morris,DAL,7
+66,Charcandrick West,KC,5
+67,Shaun Draughn,SF,8
+68,Ronnie Hillman,DEN,11
+69,Chris Thompson,WAS,9
+70,Mike Gillislee,BUF,10
+71,Lance Dunbar,DAL,7
+72,Cameron Artis-Payne,CAR,7
+73,Josh Ferguson,IND,10
+74,Keith Marshall,WAS,9
+75,Reggie Bush,BUF,10
+76,Kenjon Barner,PHI,4
+77,C.J. Spiller,NO,5
+78,Zach Zenner,DET,10
+79,Ka'Deem Carey,CHI,9
+80,Kenyan Drake,MIA,8
+81,Andre Ellington,ARI,9
+82,David Cobb,TEN,13
+83,Robert Turbin,IND,10
+84,Khiry Robinson,NYJ,11
+85,Jonathan Williams,BUF,10
+86,Tyler Ervin,HOU,9
+87,Robert Kelley,WAS,9
+88,Mike Tolbert,CAR,7
+89,Benny Cunningham,LA,8
+90,Alfred Blue,HOU,9
+91,Mike Davis,SF,8
+92,Antonio Andrews,TEN,13
+93,Terrell Watson,CLE,13
+94,Stevan Ridley,DET,10
+95,Andre Williams,NYG,8
+96,Denard Robinson,JAC,5
+97,Joique Bell,FA,1
+98,Tre Mason,LA,8
+99,Alex Collins,SEA,5
+100,Branden Oliver,SD,11
+101,Dexter McCluster,TEN,13
+102,Jalen Richard,OAK,10
+103,Jacquizz Rodgers,CHI,9
+104,Orleans Darkwa,NYG,8
+105,Travaris Cadet,NO,5
+106,Trent Richardson,FA,
+107,Jonathan Grimes,HOU,9
+108,Knile Davis,KC,5
+109,Jordan Todman,IND,10
+110,Bishop Sankey,TEN,13
+111,Damien Williams,MIA,8
+112,Matt Asiata,MIN,6
+113,Kelvin Taylor,SF,8
+114,Tyler Gaffney,NE,9
+115,Marcel Reece,OAK,10
+116,Fozzy Whittaker,CAR,7
+117,Donald Brown,NE,9
+118,Roy Helu,FA,1
+119,Lorenzo Taliaferro,BAL,8
+120,Daniel Lasco,NO,5
+121,Malcolm Brown,LA,8
+122,Brandon Bolden,NE,9
+123,Rex Burkhead,CIN,9
+124,Fitzgerald Toussaint,PIT,8
+125,Kyle Juszczyk,BAL,8
+126,John Crockett,GB,4
+127,Tyler Varga,FA,
+128,Taiwan Jones,OAK,10
+129,Terron Ward,ATL,11
+130,Mike James,TB,6
+131,Dwayne Washington,DET,10
+132,Juwan Thompson,DEN,11
+133,Patrick DiMarco,ATL,11
+134,Zach Line,MIN,6
+135,Daryl Richardson,PIT,8
+136,Bruce Miller,SF,8
+137,Darius Jackson,DAL,7
+138,Aaron Ripkowski,GB,4
+139,Kerwynn Williams,ARI,9
+140,Stepfan Taylor,ARI,9
+141,Glenn Winston,CLE,13
+142,Cedric Peerman,CIN,9
+143,Anthony Sherman,KC,5
+144,Tommy Bohanon,NYJ,11

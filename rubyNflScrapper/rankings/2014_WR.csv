@@ -1,198 +1,198 @@
-﻿Rank,Player,Best,Worst,Ave,Std Dev,ADP
-1,Calvin Johnson (DET/9),1,3,1.1,0.4,1
-2,Demaryius Thomas (DEN/4),1,5,2.5,0.8,2
-3,Dez Bryant (DAL/11),1,5,2.9,1,3
-4,A.J. Green (CIN/4),2,10,4.7,1.6,4
-5,Julio Jones (ATL/9),2,10,5.2,1.7,5
-6,Brandon Marshall (CHI/9),3,9,5.4,1.2,6
-7,Jordy Nelson (GB/9),6,13,7.6,1.5,7
-8,Alshon Jeffery (CHI/9),5,19,8.3,2,9
-9,Antonio Brown (PIT/12),5,16,8.4,1.9,8
-10,Randall Cobb (GB/9),7,20,10.7,2.2,10
-11,Vincent Jackson (TB/7),10,21,13.3,2.4,12
-12,Keenan Allen (SD/10),7,19,13.3,2.8,14
-13,Andre Johnson (HOU/10),9,31,15,4.5,13
-14,Pierre Garcon (WAS/10),10,24,15.1,3.6,15
-15,Victor Cruz (NYG/8),9,30,15.8,4.4,17
-16,Larry Fitzgerald (ARI/4),11,30,17,4.4,11
-17,Roddy White (ATL/9),10,29,17.4,3.8,20
-18,Michael Crabtree (SF/8),9,40,20.1,6.2,18
-19,Wes Welker (DEN/4),10,39,20.6,5.3,16
-20,Michael Floyd (ARI/4),11,34,20.8,4.5,23
-21,Cordarrelle Patterson (MIN/10),13,35,21.2,4.7,21
-22,Percy Harvin (SEA/4),11,44,22.4,6.2,22
-23,Torrey Smith (BAL/11),13,33,23,4.5,25
-24,DeSean Jackson (WAS/10),16,44,23.3,4.9,19
-25,Mike Wallace (MIA/5),11,38,25.6,5.4,30
-26,Kendall Wright (TEN/9),18,35,27.3,3.7,32
-27,Ty Hilton (IND/10),14,47,27.8,6.9,24
-28,Marques Colston (NO/6),13,45,29.2,5.9,29
-29,Jeremy Maclin (PHI/7),16,43,29.7,6.7,27
-30,Julian Edelman (NE/10),20,54,31.3,7.2,26
-31,Eric Decker (NYJ/11),22,39,31.4,4.3,34
-32,Terrance Williams (DAL/11),23,57,33.9,8.7,36
-33,Golden Tate (DET/9),21,56,34.2,7.2,31
-34,Emmanuel Sanders (DEN/4),17,49,35,7,28
-35,Reggie Wayne (IND/10),23,64,36,7.7,35
-36,Dwayne Bowe (KC/6),29,54,37.7,5.5,38
-37,Rueben Randle (NYG/8),24,53,38.5,7.2,44
-38,Sammy Watkins (BUF/9),25,90,39.5,11,33
-39,Cecil Shorts (JAC/11),21,66,39.6,8.5,42
-40,Mike Evans (TB/7),30,91,42,10.3,39
-41,Riley Cooper (PHI/7),31,69,43.7,6.8,37
-42,Marvin Jones (CIN/4),31,65,44.5,7.8,49
-43,Anquan Boldin (SF/8),34,69,45.1,7.3,40
-44,Brandin Cooks (NO/6),26,92,46.7,12.2,41
-45,DeAndre Hopkins (HOU/10),36,58,46,6.1,46
-46,Hakeem Nicks (IND/10),22,70,46.5,10.1,43
-47,Tavon Austin (STL/4),33,59,48.1,6.4,45
-48,Brian Hartline (MIA/5),32,79,49.1,8.9,60
-49,James Jones (OAK/5),30,62,48.9,8.8,51
-50,Kenny Stills (NO/6),33,67,50.4,8.1,52
-51,Greg Jennings (MIN/10),29,65,49.4,8.1,55
-52,Justin Hunter (TEN/9),38,75,52.3,8.1,54
-53,Jarrett Boykin (GB/9),35,76,53,9.3,56
-54,Aaron Dobson (NE/10),28,74,52.6,9.5,59
-55,Kelvin Benjamin (CAR/12),33,93,53.6,10.6,50
-56,Danny Amendola (NE/10),39,81,54.9,9.4,48
-57,Markus Wheaton (PIT/12),37,75,56,8.6,66
-58,Steve Smith (BAL/11),36,71,56.4,8.9,53
-59,Doug Baldwin (SEA/4),32,84,57.9,10.6,58
-60,Jordan Matthews (PHI/7),44,83,58.1,8.7,61
-61,Robert Woods (BUF/9),46,80,60.7,7.3,74
-62,Harry Douglas (ATL/9),42,101,64.1,11.7,67
-63,Odell Beckham Jr. (NYG/8),41,94,64.7,11.2,57
-64,Andrew Hawkins (CLE/4),44,93,64.1,10.2,71
-65,Steve Johnson (SF/8),46,93,69.8,14.3,64
-66,Kenny Britt (STL/4),29,113,67.9,14.8,72
-67,Josh Gordon (CLE/4),42,146,67.8,27.6,47
-68,Rod Streater (OAK/5),47,79,64,7.3,73
-69,Jerricho Cotchery (CAR/12),45,112,70.9,13.9,65
-70,Marqise Lee (JAC/11),49,74,64.2,6.5,70
-71,Kenbrell Thompkins (NE/10),38,98,76.8,16.2,
-72,Malcom Floyd (SD/10),54,104,71.2,13.5,75
-73,Mike Williams (BUF/9),51,91,67.4,9.5,
-74,Lance Moore (PIT/12),43,105,77.4,12.8,
-75,Chris Givens (STL/4),42,98,77.9,11,
-76,Justin Blackmon (JAC/11),43,100,82,22.9,
-77,Cody Latimer (DEN/4),50,134,77.2,20.9,
-78,Miles Austin (CLE/4),57,99,71.4,10.8,62
-79,Brandon LaFell (NE/10),55,112,82.4,15.7,69
-80,Brian Quick (STL/4),56,124,92.7,16.7,
-81,Marlon Brown (BAL/11),57,120,83.2,14.1,
-82,Davante Adams (GB/9),58,112,89.1,12.9,
-83,Nate Washington (TEN/9),58,103,74,9,
-84,Jermaine Kearse (SEA/4),59,108,78.8,9.2,77
-85,Denarius Moore (OAK/5),59,101,75,11.2,79
-86,Da'Rick Rogers (IND/10),60,163,98,27.2,
-87,Andre Holmes (OAK/5),60,96,79.6,10,
-88,Andre Roberts (WAS/10),61,100,78.8,8.3,
-89,Nate Burleson (CLE/4),63,109,85.8,12.1,
-90,Martavis Bryant (PIT/12),65,134,90.3,15.1,
-91,Paul Richardson (SEA/4),65,131,99.7,17.2,
-92,Jerrel Jernigan (NYG/8),65,119,86.2,12.3,
-93,Dexter McCluster (TEN/9),66,154,88.4,22.6,
-94,Allen Robinson (JAC/11),66,107,82,9.2,
-95,Donnie Avery (KC/6),67,98,79.2,8.5,
-96,Eddie Royal (SD/10),68,132,88.8,13.8,
-97,Jeremy Kerley (NYJ/11),68,105,80.8,8.5,
-98,Marquess Wilson (CHI/9),68,101,87.7,8.9,
-99,Brandon Gibson (MIA/5),69,120,89.8,14.9,
-100,Mohamed Sanu (CIN/4),69,109,93,9.8,
-101,John Brown (ARI/4),70,122,93.3,14.4,
-102,Santonio Holmes (FA,70,77,73.5,3.5,
-103,Stephen Hill (NYJ/11),72,167,93.1,19.7,
-104,Charles Johnson (CLE/4),72,143,102.9,22.4,
-105,Nick Toon (NO/6),72,130,112.9,18.4,
-106,Louis Murphy (TB/7),73,134,108.8,20,
-107,Jarvis Landry (MIA/5),73,123,97.8,16,
-108,Ted Ginn Jr. (ARI/4),74,128,92.4,14.5,
-109,Ace Sanders (JAC/11),74,123,105.2,13.7,
-110,Sidney Rice (SEA/4),75,155,109,30.9,63
-111,Jacoby Ford (NYJ/11),75,111,93,18,
-112,Danario Alexander (FA,75,75,75,0,
-113,Darrius Heyward-Bey (PIT/12),76,171,125.7,31.3,
-114,Quinton Patton (SF/8),77,151,103.8,25.2,
-115,David Nelson (NYJ/11),77,137,108.1,20.8,
-116,Robert Herron (TB/7),78,126,111.5,16.1,
-117,A.J. Jenkins (KC/6),79,122,102,13.5,
-118,Stedman Bailey (STL/4),79,118,98.8,12.9,
-119,Jerome Simpson (MIN/10),79,114,100.8,9.5,
-120,Cole Beasley (DAL/11),79,112,91.5,9.3,
-121,Josh Huff (PHI/7),80,145,115,22,
-122,Jacoby Jones (BAL/11),80,122,98.4,11.8,76
-123,Austin Pettis (STL/4),81,152,112.6,23.1,
-124,Vincent Brown (SD/10),81,151,109,22.4,
-125,Joseph Morgan (NO/6),81,149,125,22.6,
-126,Jarius Wright (MIN/10),82,130,103,16.3,
-127,Marquise Goodwin (BUF/9),82,121,102.9,12.2,
-128,Tiquan Underwood (CAR/12),82,111,99.8,11.3,
-129,Jason Avant (CAR/12),84,129,101.9,12.5,
-130,Chris Owusu (TB/7),85,180,147.8,33.7,
-131,Donte Moncrief (IND/10),85,150,113,24.8,
-132,Leonard Hankerson (WAS/10),85,145,122.8,17.1,
-133,Ryan Broyles (DET/9),86,139,114.7,16.2,
-134,Santana Moss (WAS/10),87,153,119.7,19.6,
-135,Jeff Janis (GB/9),88,157,132.4,26.2,
-136,DeVier Posey (HOU/10),88,132,117.3,13.4,
-137,Greg Little (OAK/5),88,131,109.4,14.5,
-138,Junior Hemingway (KC/6),88,128,110.3,14.2,
-139,Andre Caldwell (DEN/4),89,145,116.1,17,
-140,Aldrick Robinson (WAS/10),92,178,130.2,32.9,
-141,Devin Street (DAL/11),92,124,116.2,12.3,
-142,LaVon Brazill (IND/10),94,128,105.3,16,
-143,Bruce Ellington (SF/8),95,182,134,24.4,
-144,Jon Baldwin (SF/8),95,155,125,30,
-145,Josh Boyce (NE/10),95,155,135.3,20.5,
-146,Kevin Ogletree (DET/9),96,157,126.5,30.5,
-147,Shaquelle Evans (NYJ/11),96,149,130.8,20.2,
-148,Josh Morgan (CHI/9),96,148,123.7,15.2,
-149,Earl Bennett (CLE/4),98,131,114.5,16.5,
-150,Rishard Matthews (MIA/5),99,176,133.1,25.3,
-151,Dwayne Harris (DAL/11),102,159,136.5,19.1,
-152,Kris Durham (DET/9),102,143,118.1,13,
-153,T.J. Graham (BUF/9),103,180,133.3,25.6,
-154,Drew Davis (ATL/9),105,154,129.9,15.7,
-155,Travis Benjamin (CLE/4),105,138,126.5,11.5,
-156,Mike Thomas (HOU/10),106,159,130,19.6,
-157,Brandon Lloyd (SF/8),107,183,147.5,27.7,
-158,Keshawn Martin (HOU/10),107,175,128.6,22,
-159,Denard Robinson (JAC/11),108,113,110.5,2.5,
-160,Deonte Thompson (BAL/11),109,179,153.3,31.5,
-161,Myles White (GB/9),110,151,130.5,20.5,
-162,Robert Meachem (NO/6),111,160,131.5,14.8,
-163,Jared Abbrederis (GB/9),114,156,140.2,15.5,
-164,Mario Manningham (NYG/8),115,158,133.8,14.8,
-165,Marcus Easley (BUF/9),120,144,132,12,
-166,Lavelle Hawkins (TB/7),121,179,158.3,26.4,
-167,Jalen Saunders (NYJ/11),124,168,144.4,15.8,
-168,Darius Johnson (ATL/9),124,156,140,16,
-169,Damaris Johnson (PHI/7),125,152,136.7,11.3,
-170,Jeremy Ross (DET/9),125,139,132,5.7,
-171,Dane Sanzenbacher (CIN/4),126,153,138.7,11.1,
-172,Michael Preston (TEN/9),126,128,127,1,
-173,Devin Hester (ATL/9),128,141,135.7,5.6,78
-174,Mike Brown (JAC/11),129,146,137.5,6.1,
-175,Isaiah Burse (DEN/4),130,147,138.5,8.5,
-176,TJ Jones (DET/9),131,153,142,11,
-177,Brice Butler (OAK/5),133,182,155.4,18.3,
-178,Kyle Williams (KC/6),133,161,147.7,11.5,
-179,Eric Weems (CHI/9),134,141,137.5,3.5,
-180,Seyi Ajirotutu (SD/10),135,161,150.7,11.3,
-181,Tandon Doss (JAC/11),136,147,141.5,5.5,
-182,Griff Whalen (IND/10),138,164,151,13,
-183,Marvin McNutt (CAR/12),139,186,156.7,20.9,
-184,Marcus Lucas (CAR/12),140,187,163.5,23.5,
-185,Chris Hogan (BUF/9),140,181,166.3,18.7,
-186,Kevin Norwood (SEA/4),142,184,166.3,17.8,
-187,Brandon Tate (CIN/4),142,173,157.5,15.5,
-188,Brad Smith (PHI/7),143,149,146,3,
-189,Jeff Maehl (PHI/7),150,167,158.5,8.5,
-190,Walter Powell (ARI/4),154,166,160,6,
-191,Brittan Golden (ARI/4),155,165,160,5,
-192,Juron Criner (OAK/5),158,181,169.3,9.4,
-193,Alan Bonner (HOU/10),158,174,166,8,
-194,Trindon Holliday (NYG/8),162,166,164,2,
-195,Adam Thielen (MIN/10),165,168,166.5,1.5,
-196,Marc Mariani (TEN/9),170,177,173.5,3.5,
-197,Derek Hagan (TEN/9),171,176,173.5,2.5,
+﻿Rank,Player,Team,Bye
+1,Calvin Johnson,DET,9
+2,Demaryius Thomas,DEN,4
+3,Dez Bryant,DAL,11
+4,A.J. Green,CIN,4
+5,Julio Jones,ATL,9
+6,Brandon Marshall,CHI,9
+7,Jordy Nelson,GB,9
+8,Alshon Jeffery,CHI,9
+9,Antonio Brown,PIT,12
+10,Randall Cobb,GB,9
+11,Vincent Jackson,TB,7
+12,Keenan Allen,SD,10
+13,Andre Johnson,HOU,10
+14,Pierre Garcon,WAS,10
+15,Victor Cruz,NYG,8
+16,Larry Fitzgerald,ARI,4
+17,Roddy White,ATL,9
+18,Michael Crabtree,SF,8
+19,Wes Welker,DEN,4
+20,Michael Floyd,ARI,4
+21,Cordarrelle Patterson,MIN,10
+22,Percy Harvin,SEA,4
+23,Torrey Smith,BAL,11
+24,DeSean Jackson,WAS,10
+25,Mike Wallace,MIA,5
+26,Kendall Wright,TEN,9
+27,Ty Hilton,IND,10
+28,Marques Colston,NO,6
+29,Jeremy Maclin,PHI,7
+30,Julian Edelman,NE,10
+31,Eric Decker,NYJ,11
+32,Terrance Williams,DAL,11
+33,Golden Tate,DET,9
+34,Emmanuel Sanders,DEN,4
+35,Reggie Wayne,IND,10
+36,Dwayne Bowe,KC,6
+37,Rueben Randle,NYG,8
+38,Sammy Watkins,BUF,9
+39,Cecil Shorts,JAC,11
+40,Mike Evans,TB,7
+41,Riley Cooper,PHI,7
+42,Marvin Jones,CIN,4
+43,Anquan Boldin,SF,8
+44,Brandin Cooks,NO,6
+45,DeAndre Hopkins,HOU,10
+46,Hakeem Nicks,IND,10
+47,Tavon Austin,STL,4
+48,Brian Hartline,MIA,5
+49,James Jones,OAK,5
+50,Kenny Stills,NO,6
+51,Greg Jennings,MIN,10
+52,Justin Hunter,TEN,9
+53,Jarrett Boykin,GB,9
+54,Aaron Dobson,NE,10
+55,Kelvin Benjamin,CAR,12
+56,Danny Amendola,NE,10
+57,Markus Wheaton,PIT,12
+58,Steve Smith,BAL,11
+59,Doug Baldwin,SEA,4
+60,Jordan Matthews,PHI,7
+61,Robert Woods,BUF,9
+62,Harry Douglas,ATL,9
+63,Odell Beckham Jr.,NYG,8
+64,Andrew Hawkins,CLE,4
+65,Steve Johnson,SF,8
+66,Kenny Britt,STL,4
+67,Josh Gordon,CLE,4
+68,Rod Streater,OAK,5
+69,Jerricho Cotchery,CAR,12
+70,Marqise Lee,JAC,11
+71,Kenbrell Thompkins,NE,10
+72,Malcom Floyd,SD,10
+73,Mike Williams,BUF,9
+74,Lance Moore,PIT,12
+75,Chris Givens,STL,4
+76,Justin Blackmon,JAC,11
+77,Cody Latimer,DEN,4
+78,Miles Austin,CLE,4
+79,Brandon LaFell,NE,10
+80,Brian Quick,STL,4
+81,Marlon Brown,BAL,11
+82,Davante Adams,GB,9
+83,Nate Washington,TEN,9
+84,Jermaine Kearse,SEA,4
+85,Denarius Moore,OAK,5
+86,Da'Rick Rogers,IND,10
+87,Andre Holmes,OAK,5
+88,Andre Roberts,WAS,10
+89,Nate Burleson,CLE,4
+90,Martavis Bryant,PIT,12
+91,Paul Richardson,SEA,4
+92,Jerrel Jernigan,NYG,8
+93,Dexter McCluster,TEN,9
+94,Allen Robinson,JAC,11
+95,Donnie Avery,KC,6
+96,Eddie Royal,SD,10
+97,Jeremy Kerley,NYJ,11
+98,Marquess Wilson,CHI,9
+99,Brandon Gibson,MIA,5
+100,Mohamed Sanu,CIN,4
+101,John Brown,ARI,4
+102,Santonio Holmes,FA,1
+103,Stephen Hill,NYJ,11
+104,Charles Johnson,CLE,4
+105,Nick Toon,NO,6
+106,Louis Murphy,TB,7
+107,Jarvis Landry,MIA,5
+108,Ted Ginn Jr.,ARI,4
+109,Ace Sanders,JAC,11
+110,Sidney Rice,SEA,4
+111,Jacoby Ford,NYJ,11
+112,Danario Alexander,FA,1
+113,Darrius Heyward-Bey,PIT,12
+114,Quinton Patton,SF,8
+115,David Nelson,NYJ,11
+116,Robert Herron,TB,7
+117,A.J. Jenkins,KC,6
+118,Stedman Bailey,STL,4
+119,Jerome Simpson,MIN,10
+120,Cole Beasley,DAL,11
+121,Josh Huff,PHI,7
+122,Jacoby Jones,BAL,11
+123,Austin Pettis,STL,4
+124,Vincent Brown,SD,10
+125,Joseph Morgan,NO,6
+126,Jarius Wright,MIN,10
+127,Marquise Goodwin,BUF,9
+128,Tiquan Underwood,CAR,12
+129,Jason Avant,CAR,12
+130,Chris Owusu,TB,7
+131,Donte Moncrief,IND,10
+132,Leonard Hankerson,WAS,10
+133,Ryan Broyles,DET,9
+134,Santana Moss,WAS,10
+135,Jeff Janis,GB,9
+136,DeVier Posey,HOU,10
+137,Greg Little,OAK,5
+138,Junior Hemingway,KC,6
+139,Andre Caldwell,DEN,4
+140,Aldrick Robinson,WAS,10
+141,Devin Street,DAL,11
+142,LaVon Brazill,IND,10
+143,Bruce Ellington,SF,8
+144,Jon Baldwin,SF,8
+145,Josh Boyce,NE,10
+146,Kevin Ogletree,DET,9
+147,Shaquelle Evans,NYJ,11
+148,Josh Morgan,CHI,9
+149,Earl Bennett,CLE,4
+150,Rishard Matthews,MIA,5
+151,Dwayne Harris,DAL,11
+152,Kris Durham,DET,9
+153,T.J. Graham,BUF,9
+154,Drew Davis,ATL,9
+155,Travis Benjamin,CLE,4
+156,Mike Thomas,HOU,10
+157,Brandon Lloyd,SF,8
+158,Keshawn Martin,HOU,10
+159,Denard Robinson,JAC,11
+160,Deonte Thompson,BAL,11
+161,Myles White,GB,9
+162,Robert Meachem,NO,6
+163,Jared Abbrederis,GB,9
+164,Mario Manningham,NYG,8
+165,Marcus Easley,BUF,9
+166,Lavelle Hawkins,TB,7
+167,Jalen Saunders,NYJ,11
+168,Darius Johnson,ATL,9
+169,Damaris Johnson,PHI,7
+170,Jeremy Ross,DET,9
+171,Dane Sanzenbacher,CIN,4
+172,Michael Preston,TEN,9
+173,Devin Hester,ATL,9
+174,Mike Brown,JAC,11
+175,Isaiah Burse,DEN,4
+176,TJ Jones,DET,9
+177,Brice Butler,OAK,5
+178,Kyle Williams,KC,6
+179,Eric Weems,CHI,9
+180,Seyi Ajirotutu,SD,10
+181,Tandon Doss,JAC,11
+182,Griff Whalen,IND,10
+183,Marvin McNutt,CAR,12
+184,Marcus Lucas,CAR,12
+185,Chris Hogan,BUF,9
+186,Kevin Norwood,SEA,4
+187,Brandon Tate,CIN,4
+188,Brad Smith,PHI,7
+189,Jeff Maehl,PHI,7
+190,Walter Powell,ARI,4
+191,Brittan Golden,ARI,4
+192,Juron Criner,OAK,5
+193,Alan Bonner,HOU,10
+194,Trindon Holliday,NYG,8
+195,Adam Thielen,MIN,10
+196,Marc Mariani,TEN,9
+197,Derek Hagan,TEN,9
