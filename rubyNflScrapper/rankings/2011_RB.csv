@@ -1,4 +1,4 @@
-﻿Rank,Player Name,Team,Bye
+﻿Rank,Name,Team,Bye
 1,Adrian Peterson,MIN,9
 2,Arian Foster,HOU,11
 3,Jamaal Charles,KC,6
@@ -22,7 +22,7 @@
 21,Mark Ingram,NO,11
 22,Knowshon Moreno,DEN,6
 23,Ryan Mathews,SD,6
-24,"Chris ""Beanie"" Wells",ARI,6
+24,Beanie Wells,ARI,6
 25,Cedric Benson,CIN,7
 26,Fred Jackson,BUF,7
 27,Marshawn Lynch,SEA,6
@@ -77,7 +77,7 @@
 76,Mike Goodson,CAR,9
 77,Bilal Powell,NYJ,8
 78,Kregg Lumpkin,TB,8
-79,"Carnell ""Cadillac"" Williams",STL,5
+79,Cadillac Williams,STL,5
 80,LaRod Stephens-Howling,ARI,6
 81,Leon Washington,SEA,6
 82,Jalen Parmele,BAL,5
