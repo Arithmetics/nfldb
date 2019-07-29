@@ -258,18 +258,18 @@
 46,Jordy Nelson,GB,8,2011,WR,1032
 47,Mike Williams,SEA,6,2011,WR,2508048
 48,Danny Amendola,STL,5,2011,WR,2649
-49,Davone Bess,MIA,5,2011,WR
+49,Davone Bess,MIA,5,2011,WR,735
 50,Deion Branch,NE,7,2011,WR,2505062
 51,Nate Burleson,DET,9,2011,WR,2505511
-52,Roy Williams,CHI,8,2011,WR
+52,Roy Williams,CHI,8,2011,WR,2506096
 53,Greg Little,CLE,5,2011,WR,2495192
 54,James Jones,GB,8,2011,WR,2507183
 55,Jerome Simpson,CIN,7,2011,WR,318
-56,Arrelious Benn,TB,8,2011,WR
+56,Arrelious Benn,TB,8,2011,WR,497270
 57,Earl Bennett,CHI,8,2011,WR,733
 58,Steve Breaston,KC,6,2011,WR,2495562
 59,Denarius Moore,OAK,8,2011,WR,2495315
-60,Donald Driver,GB,8,2011,WR
+60,Donald Driver,GB,8,2011,WR,2500467
 61,Derrick Mason,NYJ,8,2011,WR
 62,Emmanuel Sanders,PIT,11,2011,WR,497322
 63,Andre Roberts,ARI,6,2011,WR
@@ -394,7 +394,7 @@
 15,Greg Olsen,CAR,9,2011,TE,2495700
 16,Dustin Keller,NYJ,8,2011,TE,1074
 17,Jared Cook,TEN,6,2011,TE,71265
-18,Chris Cooley,WAS,5,2011,TE
+18,Chris Cooley,WAS,5,2011,TE,2505938
 19,Brent Celek,PHI,7,2011,TE,2507218
 20,Lance Kendricks,STL,5,2011,TE,2495187
 21,Jermaine Gresham,CIN,7,2011,TE,497238
@@ -582,7 +582,7 @@
 44,Jacquizz Rodgers,ATL,7,2012,RB,2495471
 45,Mikel Leshoure,DET,5,2012,RB,2495468
 46,LeGarrette Blount,TB,5,2012,RB,497149
-47,Evan Royster,WAS,10,2012,RB
+47,Evan Royster,WAS,10,2012,RB,2495220
 48,Daniel Thomas,MIA,7,2012,RB,2495241
 49,Shane Vereen,NE,9,2012,RB,2495473
 50,Felix Jones,DAL,5,2012,RB,931
@@ -726,7 +726,7 @@
 56,Alshon Jeffery,CHI,6,2012,WR,2533039
 57,Michael Floyd,ARI,10,2012,WR,2532841
 58,Mario Manningham,SF,9,2012,WR,1030
-59,Davone Bess,MIA,7,2012,WR
+59,Davone Bess,MIA,7,2012,WR,735
 60,Nate Burleson,DET,5,2012,WR,2505511
 61,Brian Quick,STL,9,2012,WR
 62,Emmanuel Sanders,PIT,4,2012,WR
@@ -1166,7 +1166,7 @@
 37,Anquan Boldin,SF,9,2013,WR,2505587
 38,Lance Moore,NO,7,2013,WR,2506287
 39,Danario Alexander,SD,8,2013,WR,497262
-40,Denarius Moore,OAK,7,2013,WR
+40,Denarius Moore,OAK,7,2013,WR,2495315
 41,Sidney Rice,SEA,12,2013,WR,2495718
 42,Emmanuel Sanders,PIT,5,2013,WR,497322
 43,Justin Blackmon,JAC,9,2013,WR,2533038
@@ -1333,7 +1333,7 @@
 17,Jordan Cameron,CLE,10,2013,TE,2495267
 18,Dustin Keller,MIA,6,2013,TE,1074
 19,Ed Dickson,BAL,8,2013,TE,497224
-20,Robert Housler,ARI,9,2013,TE
+20,Robert Housler,ARI,9,2013,TE,2508112
 21,Heath Miller,PIT,5,2013,TE,2506369
 22,Dwayne Allen,IND,8,2013,TE
 23,Tyler Eifert,CIN,12,2013,TE
@@ -2402,7 +2402,7 @@
 15,Antonio Gates,SD,10,2015,TE,2505299
 16,Austin Seferian-Jenkins,TB,6,2015,TE,2543683
 17,Larry Donnell,NYG,11,2015,TE,2537933
-18,Josh Hill,NO,11,2015,TE
+18,Josh Hill,NO,11,2015,TE,2541834
 19,Heath Miller,PIT,11,2015,TE,2506369
 20,Vernon Davis,SF,10,2015,TE,2495826
 21,Coby Fleener,IND,10,2015,TE,2532838
@@ -2793,11 +2793,11 @@
 51,Steve Smith,BAL,8,2016,WR,2504595
 52,Michael Thomas,NO,5,2016,WR,2556370
 53,Laquon Treadwell,MIN,6,2016,WR,2555214
-54,Phillip Dorsett,IND,10,2016,WR
+54,Phillip Dorsett,IND,10,2016,WR,2552424
 55,Mohamed Sanu,ATL,11,2016,WR,2533040
-56,Sammie Coates,PIT,8,2016,WR
+56,Sammie Coates,PIT,8,2016,WR,2552470
 57,Rishard Matthews,TEN,13,2016,WR,2532903
-58,Dorial Green-Beckham,PHI,4,2016,WR
+58,Dorial Green-Beckham,PHI,4,2016,WR,2552491
 59,Mike Wallace,BAL,8,2016,WR,2507763
 60,Terrance Williams,DAL,7,2016,WR,2539205
 61,Kendall Wright,TEN,13,2016,WR
@@ -3098,7 +3098,7 @@
 50,Darren Sproles,PHI,10,2017,RB,2506467
 51,Giovani Bernard,CIN,6,2017,RB,2540156
 52,Jamaal Williams,GB,8,2017,RB,2558204
-53,Joe Williams,SF,11,2017,RB
+53,Joe Williams,SF,11,2017,RB,2557936
 54,Alvin Kamara,NO,5,2017,RB,2558019
 55,Dion Lewis,NE,9,2017,RB,2495469
 56,Marlon Mack,IND,11,2017,RB,2558123
@@ -3608,7 +3608,7 @@
 25,Royce Freeman,DEN,10,2018,RB,2560733
 26,Sony Michel,NE,11,2018,RB,2560809
 27,Dion Lewis,TEN,8,2018,RB,2495469
-28,Ronald Jones II,TB,5,2018,RB
+28,Ronald Jones II,TB,5,2018,RB,2560770
 29,Marshawn Lynch,OAK,7,2018,RB,2495663
 30,Tevin Coleman,ATL,8,2018,RB,2552453
 31,Marlon Mack,IND,9,2018,RB,2558123
