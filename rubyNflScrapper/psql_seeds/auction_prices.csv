@@ -1,4 +1,4 @@
-﻿year,name,price,profile_id,positsion
+﻿year,name,price,profile_id,position
 2013,Aaron Rodgers,68,2506363,QB
 2013,Tom Brady,67,2504211,QB
 2013,Drew Brees,65,2504775,QB
@@ -603,8 +603,8 @@
 2018,Jordan Howard,25,2555418,RB
 2018,LeSean McCoy,23,79607,RB
 2018,Lamar Miller,22,2533034,RB
-2018,Royce Freeman,20,2559843,RB
-2018,Alex Collins,19,#N/A,RB
+2018,Royce Freeman,20,2560733,RB
+2018,Alex Collins,19,2555430,RB
 2018,Derrick Henry,16,2556075,RB
 2018,Jay Ajayi,13,2552582,RB
 2018,Kenyan Drake,13,2555230,RB

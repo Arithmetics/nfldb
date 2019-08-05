@@ -14,3 +14,5 @@ make a puzzle of dad and send to grandma
 10. worst bench/start splits
 11. most 0 point starts
 12. most white rbs and wrs started
+13. people who bring back to most players from year before
+12. shadowers, most owned of person the year before
